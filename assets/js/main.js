@@ -169,7 +169,7 @@
         
         // Count Time 
         function makeTimer() {
-            var endTime = new Date("July 10, 2027 17:00:00 PDT");			
+            var endTime = new Date("January 7, 2024 17:00:00 PDT");			
             var endTime = (Date.parse(endTime)) / 1000;
             var now = new Date();
             var now = (Date.parse(now) / 1000);
